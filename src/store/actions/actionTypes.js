@@ -1,0 +1,6 @@
+
+
+export const FETCH_PRODUCTS = 'FETCH_PRODUCTS';
+export const FETCH_PRODUCT_FAILED = 'FETCH_PRODUCT_FAILED';
+export const SET_PRODUCTS = 'SET_PRODUCTS';
+export const ADDTO_CART = 'ADDTO_CART';
